@@ -38,3 +38,14 @@ git branch -m main
 cat ~/.gitconfig
 
 tree
+
+git add ola.txt
+
+git status
+
+git commit -m "adicionando ola"
+
+git tree
+
+git log
+
