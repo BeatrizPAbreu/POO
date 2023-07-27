@@ -18,3 +18,23 @@ cd ../home/aluno
 cd ../../usr/lib/jvm
 
 cat /home/aluno/.gitconfig
+
+echo $SHELL
+
+export POO = "Aula"
+
+echo $POO
+
+ls -la
+
+echo "Ola mundo" > ola.txt
+
+cat ola.txt
+
+git init
+
+git branch -m main
+
+cat ~/.gitconfig
+
+tree
