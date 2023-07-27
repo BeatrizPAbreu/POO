@@ -1,0 +1,20 @@
+
+git config 
+
+cat $HOME/.gitconfig
+
+cd /tmp
+pwd
+cd
+
+cd /home/aluno
+
+cd ../home/aluno
+
+cd ../aluno
+
+cd ../home/aluno
+
+cd ../../usr/lib/jvm
+
+cat /home/aluno/.gitconfig
