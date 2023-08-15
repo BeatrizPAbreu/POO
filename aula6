@@ -1,0 +1,7 @@
+Clica no botão direto do mouse em Main, depois refactor e após coloca rename e troca os nomes
+
+
+Para apagar as mensagens a mais, criar um file chamado gradle properiets e ecrever nele
+org.gradle.console=plain
+org.gradle.logging.level=quiet
+
