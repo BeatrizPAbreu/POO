@@ -5,3 +5,6 @@ Para apagar as mensagens a mais, criar um file chamado gradle properiets e ecrev
 org.gradle.console=plain
 org.gradle.logging.level=quiet
 
+ps aux
+
+kill -9 numero
